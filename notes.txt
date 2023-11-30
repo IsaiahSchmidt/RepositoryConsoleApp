@@ -1,0 +1,39 @@
+Delivery Service
+- List 
+
+Repo Methods:
+add new delivery to history (create)
+list all en route deliveries and all completed deliveries (read)
+update the status  of a delivery (update)
+cancel a delivery (delete)
+
+POCO Methods:
+order date
+delivery date
+order status (scheduled, enroute, complete, canceled)(enum probably?)
+item number - unique ID for each prduct? Ask Terry for clarification
+    - if yes, then need class w list of items and their IDs (enum?)
+    - could also be order number (unique ID to view singular order)
+    - maybe do both ?
+item quantity
+customer ID (unique ID, associated w account)
+
+
+NEEDS: 
+
+1. Class library
+- POCO 
+    - basic object contained in a collection
+    - has properties
+- Repository
+    - collection of items (list)
+    - has CRUD methods 
+    - can have fields / properties of its own
+
+2. Console App
+- Program.cs 
+- Program.UI 
+
+3. Unit Test Project
+- Unit Test Class 
+    - test methods to test Repo CRUD methods
