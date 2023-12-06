@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceApp.UI\\DeliveryServiceApp.csproj",
-      "projectName": "DeliveryServiceApp",
-      "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceApp.UI\\DeliveryServiceApp.csproj",
+      "projectUniqueName": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DevileryServiceAppData\\DevileryServiceAppData.csproj",
+      "projectName": "DevileryServiceAppData",
+      "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DevileryServiceAppData\\DevileryServiceAppData.csproj",
       "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceApp.UI\\obj\\",
+      "outputPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DevileryServiceAppData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config"

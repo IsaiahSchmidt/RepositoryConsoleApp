@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jeUAN3a67zvgp2NQFHFhrsSP45dFms/rNOlVUCFwX17pGf5PxHjWcy9y4iBXDQhsln3zeYJKnyKgtUTXaHfvrQ==",
+  "dgSpecHash": "U9YwfO+8j+L2Y1oBJIirp5b7GSV0nf6kG3VLOr1QdzFTlFzRfdp87YmSxHF16QD664gcF7bU+SJ6Vkku5SWDlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceApp\\DeliveryServiceApp.csproj",
+  "projectFilePath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceApp.UI\\DeliveryServiceApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
