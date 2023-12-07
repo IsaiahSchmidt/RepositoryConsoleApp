@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "DeliveryServiceAppData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DeliveryServiceAppData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryServiceAppData.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DeliveryServiceAppData/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryServiceAppData/DeliveryServiceAppData.csproj",
+      "msbuildProject": "../DeliveryServiceAppData/DeliveryServiceAppData.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "DeliveryServiceAppData >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\isaia\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj": {
+              "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
