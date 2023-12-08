@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = DeliveryServiceAppRepository
-build_property.ProjectDir = C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\
+build_property.RootNamespace = DeliveryServiceUI
+build_property.ProjectDir = C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceUI\

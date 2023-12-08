@@ -1,0 +1,15 @@
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\bin\Debug\net7.0\DeliveryServiceAppRepository.deps.json
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\bin\Debug\net7.0\DeliveryServiceAppRepository.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\bin\Debug\net7.0\DeliveryServiceAppRepository.pdb
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\bin\Debug\net7.0\DeliveryServiceAppData.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\bin\Debug\net7.0\DeliveryServiceAppData.pdb
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.csproj.AssemblyReference.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.csproj.CopyComplete
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\refint\DeliveryServiceAppRepository.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\DeliveryServiceAppRepository.pdb
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppRepository\obj\Debug\net7.0\ref\DeliveryServiceAppRepository.dll

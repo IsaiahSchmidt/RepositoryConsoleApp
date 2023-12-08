@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DeliveryServiceAppData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DeliveryServiceAppData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryServiceAppData.dll": {}
+        }
+      },
+      "DeliveryServiceAppRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DeliveryServiceAppData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DeliveryServiceAppRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryServiceAppRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryServiceAppData/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryServiceAppData/DeliveryServiceAppData.csproj",
+      "msbuildProject": "../DeliveryServiceAppData/DeliveryServiceAppData.csproj"
+    },
+    "DeliveryServiceAppRepository/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryServiceAppRepository/DeliveryServiceAppRepository.csproj",
+      "msbuildProject": "../DeliveryServiceAppRepository/DeliveryServiceAppRepository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DeliveryServiceAppData >= 1.0.0",
+      "DeliveryServiceAppRepository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\isaia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceUI\\DeliveryServiceUI.csproj",
+      "projectName": "DeliveryServiceUI",
+      "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceUI\\DeliveryServiceUI.csproj",
+      "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj": {
+              "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj"
+            },
+            "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj": {
+              "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
