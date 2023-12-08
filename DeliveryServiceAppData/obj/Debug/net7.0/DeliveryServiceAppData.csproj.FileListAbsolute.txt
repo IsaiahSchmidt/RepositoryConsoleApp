@@ -1,0 +1,4 @@
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppData\obj\Debug\net7.0\DeliveryServiceAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppData\obj\Debug\net7.0\DeliveryServiceAppData.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppData\obj\Debug\net7.0\DeliveryServiceAppData.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\RepositoryConsoleApp\DeliveryServiceAppData\obj\Debug\net7.0\DeliveryServiceAppData.csproj.CoreCompileInputs.cache

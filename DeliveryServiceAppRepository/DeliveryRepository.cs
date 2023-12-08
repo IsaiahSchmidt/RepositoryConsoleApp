@@ -33,7 +33,7 @@ namespace DeliveryServiceAppRepository
             return _deliveryDbContent.FirstOrDefault(del => del.Id == idSelection)!;
         }
 
-        public List<Delivery> ListEnRouteDeliveries(int idSelection)
+        public List<Delivery> ListEnRouteDeliveries()
         {
             List<Delivery> enRouteDeliveries = new List<Delivery>();
             foreach (Delivery delivery in _deliveryDbContent)
