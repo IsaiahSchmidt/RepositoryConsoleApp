@@ -1708,6 +1708,29 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "DeliveryServiceAppData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DeliveryServiceAppData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryServiceAppData.dll": {}
+        }
+      },
+      "DeliveryServiceAppRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DeliveryServiceAppData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DeliveryServiceAppRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryServiceAppRepository.dll": {}
+        }
       }
     }
   },
@@ -5500,10 +5523,22 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "DeliveryServiceAppData/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryServiceAppData/DeliveryServiceAppData.csproj",
+      "msbuildProject": "../DeliveryServiceAppData/DeliveryServiceAppData.csproj"
+    },
+    "DeliveryServiceAppRepository/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryServiceAppRepository/DeliveryServiceAppRepository.csproj",
+      "msbuildProject": "../DeliveryServiceAppRepository/DeliveryServiceAppRepository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DeliveryServiceAppData >= 1.0.0",
+      "DeliveryServiceAppRepository >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5516,11 +5551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryService.Tests\\DeliveryService.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryService.Tests\\DeliveryService.Tests.csproj",
       "projectName": "DeliveryService.Tests",
-      "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryService.Tests\\DeliveryService.Tests.csproj",
+      "projectPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryService.Tests\\DeliveryService.Tests.csproj",
       "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryService.Tests\\obj\\",
+      "outputPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5534,7 +5569,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj": {
+              "projectPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj"
+            },
+            "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj": {
+              "projectPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

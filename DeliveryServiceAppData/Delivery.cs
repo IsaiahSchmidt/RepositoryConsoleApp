@@ -16,8 +16,8 @@ public class Delivery
     //order date
     public DateTime OrderDate {get; set;}
     //delivery date
-    public DateTime DeliveryDate {get; set;}
-    //order status (enum?)
+    public DateTime DeliveryDate {get; set;}    // to pass in as parameter: new DateTime(YYYY,MM,DD)
+    //order status 
     public OrderStatus OrderStatus {get; set;}
     //item number 
     public int ItemNumber {get; set;}

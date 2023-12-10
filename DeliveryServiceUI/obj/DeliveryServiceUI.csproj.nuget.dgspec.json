@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj": {
+    "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj",
+        "projectUniqueName": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj",
         "projectName": "DeliveryServiceAppRepository",
-        "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj",
+        "projectPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj",
         "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\obj\\",
+        "outputPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -139,8 +139,8 @@
               "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj": {
                 "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppData\\DeliveryServiceAppData.csproj"
               },
-              "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj": {
-                "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj"
+              "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj": {
+                "projectPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\RepositoryConsoleApp\\DeliveryServiceAppRepository\\DeliveryServiceAppRepository.csproj"
               }
             }
           }
